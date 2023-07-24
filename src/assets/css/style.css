@@ -1,0 +1,8 @@
+.activeMenu{
+    color: aqua;
+    font-size: 30px;
+}
+.pendingMenu{
+    color: rgb(40, 13, 216);
+    font-size: 20px;
+}
